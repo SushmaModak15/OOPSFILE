@@ -74,8 +74,7 @@ Assignment - c++ programs using oops concept
 67.[program for single inheritance  ](code81.cpp)
 68.[programfor multilevel inheritence  ](code82.cpp)
 69.[program for multiple inheritence   ](code83.cpp)
-70.[program for vitual base class  ](code93.cpp)
-71.[program demonstrating function overloading   ](code96.cpp)
+
 
 
 
