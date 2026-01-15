@@ -27,8 +27,14 @@ cout<<"multiplication = "<<j*l<<endl;
 int main(){
     int w,y;
     float r,t;
+    arithmetic a0;
     cout<<"enter two float values"<<endl;
     cin>>r ;
     cin>>t;
     arithmetic a1(r,t);
+        cout<<"enter two integer values"<<endl;
+    cin>>w ;
+    cin>>y;
+    arithmetic a2(w,y);
+
 }
