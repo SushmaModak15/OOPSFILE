@@ -1,3 +1,8 @@
+
+Name - Sushma Modak
+class roll no -70
+examination roll no -24292023
+
 # OOPS Programs
 
 this repository contains c++ programs my OOPs class.
