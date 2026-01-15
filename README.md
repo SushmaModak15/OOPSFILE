@@ -2,17 +2,84 @@
 Name - Sushma Modak
 class roll no -70
 examination roll no -24292023
+Assignment - c++ programs using oops concept
 
-# OOPS Programs
+# OOPS Programs list
+1.[program to print hello world  ](code01.cpp)
+2.[program to demonstrate data type and sizes   ](code02.cpp)
+3.[program to swap two numbers using a third variabLE   ](code03.cpp)
+4.[program to swap two numbers without a third variable   ](code04.cpp)
+5.[program using const keyword   ](code05.cpp)
+6.[program to calculate simple interest  ](code06.cpp)
+7.[program to  convert temperature(c to f)  ](code07.cpp)
+8.[program to find ascii value of a character  ](code08.cpp)
+9.[program to compute area of circle, triangle and retangle    ](code09.cpp)
+10.[program to demonstrate type casting   ](code10.cpp)
+11.[program to demonstrate arithemetic operator   ](code11.cpp)
+12.[program to demonstrate relational opeartors  ](code12.cpp)
+13.[program to demonstrate logical operator  ](code13.cpp)
+14.[program to demonstrate assignment opeartor  ](code14.cpp)
+15.[program to  demonstrate bitwise operator  ](code15.cpp)
+16.[program to demonstrating increment decrement   ](code16.cpp)
+17.[program to using conditional(ternary) operator   ](code17.cpp)
+18.[program to evaluate an algebric expressison  ](code18.cpp)
+19.[program to check leap year   ](code19.cpp)
+20.[program to check if a number is positive /negative /zero  ](code20.cpp)
+21.[program using simple if  ](code21.cpp)
+22.[program using if else   ](code22.cpp)
+23.[program using nested if  ](code23.cpp)
+24.[program for grading system using if else   ](code24.cpp)
+25.[program using switch statement   ](code25.cpp)
+26.[program using for loop to print series  ](code26.cpp)
+27.[program using while loop to print table  ](code27.cpp)
+28.[program  using do while loop to print number series   ](code28 .cpp)
+29.[program demonstrating break and continue  ](code29.cpp)
+30.[program to input and display array elements  ](code31.cpp)
+31.[program to find largest element in array  ](code32.cpp)
+32.[program to find second largest element   ](code33.cpp)
+33.[program to reverse an array  ](code34.cpp)
+34.[program for matrix addition  ](code35.cpp)
+35.[program for string length without using library function ](code37.cpp)
+36.[program to copy string manually   ](code38.cpp)
+37.[program demonstrating pointer basic functions  ](code39.cpp)
+38.[program using structure to store student details   ](code40.cpp)
+39.[program definig a class and object  ](code41.cpp)
+40.[program with private and public members   ](code42.cpp)
+41.[program to demonstrate class member function   ](code43.cpp)
+42.[program to read and display employee details using class  ](code44.cpp)
+43.[program to perform arithmetic operations using class    ](code45.cpp)
+44.[program to compare two objects   ](code46.cpp)
+45.[program to find largest of two numbers  using class   ](code47.cpp)
+46.[program to calculate area using class object  ](code48.cpp)
+47.[program demonstrating nested class   ](code49.cpp)
+48.[program to count number of objects using static variable  ](code50.cpp)
+49.[program with default constructor  ](code51.cpp)
+50.[program with parametrized constructor  ](code52.cpp)
+51.[program with multiple constructor   ](code53.cpp)
+52.[program with copy constructor  ](code54.cpp)
+53.[program to demonstrate constructor overloading  ](code55.cpp)
+54.[program with destructor showing object destruction  ](code56.cpp)
+55.[program to  show order of constructor execution  ](code57.cpp)
+56.[program to dynamically allocate memory in constructor  ](code58.cpp)
+57.[program to initialize const data member in constructor   ](code59.cpp)
+58.[program to initialize static data member    ](code60.cpp)
+59.[program demonstrating this pointer   ](code61.cpp)
+60.[program to differentiate local & member variable using this  ](code62.cpp)
+61.[program with friend function accessing private data  ](code63.cpp)
+62.[program with friend  ](code65.cpp)
+63.[program with static data member  ](code71.cpp)
+64.[program with static member function   ](code72.cpp)
+65.[program with const object   ](code73.cpp)
+66.[program with const member function  ](code74.cpp)
+67.[program for single inheritance  ](code81.cpp)
+68.[programfor multilevel inheritence  ](code82.cpp)
+69.[program for multiple inheritence   ](code83.cpp)
+70.[program for vitual base class  ](code93.cpp)
+71.[program demonstrating function overloading   ](code96.cpp)
 
-this repository contains c++ programs my OOPs class.
-## topics covered 
--classes & objects 
--friend function & friend classes
--operator overloading
--inline & constant functions
 
-## instructions
--compile the '.cpp' files in any c++ IDE.
--'.exe' files are not include
+
+
+
+
 
